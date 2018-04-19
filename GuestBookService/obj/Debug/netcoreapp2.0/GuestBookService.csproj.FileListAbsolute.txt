@@ -1,0 +1,11 @@
+c:\users\whong\Source\Repos\GuestBookService\GuestBookService\bin\Debug\netcoreapp2.0\GuestBookService.deps.json
+c:\users\whong\Source\Repos\GuestBookService\GuestBookService\bin\Debug\netcoreapp2.0\GuestBookService.runtimeconfig.json
+c:\users\whong\Source\Repos\GuestBookService\GuestBookService\bin\Debug\netcoreapp2.0\GuestBookService.runtimeconfig.dev.json
+c:\users\whong\Source\Repos\GuestBookService\GuestBookService\bin\Debug\netcoreapp2.0\GuestBookService.dll
+c:\users\whong\Source\Repos\GuestBookService\GuestBookService\bin\Debug\netcoreapp2.0\GuestBookService.pdb
+c:\users\whong\Source\Repos\GuestBookService\GuestBookService\obj\Debug\netcoreapp2.0\GuestBookService.csprojResolveAssemblyReference.cache
+c:\users\whong\Source\Repos\GuestBookService\GuestBookService\obj\Debug\netcoreapp2.0\GuestBookService.csproj.CoreCompileInputs.cache
+c:\users\whong\Source\Repos\GuestBookService\GuestBookService\obj\Debug\netcoreapp2.0\GuestBookService.AssemblyInfoInputs.cache
+c:\users\whong\Source\Repos\GuestBookService\GuestBookService\obj\Debug\netcoreapp2.0\GuestBookService.AssemblyInfo.cs
+c:\users\whong\Source\Repos\GuestBookService\GuestBookService\obj\Debug\netcoreapp2.0\GuestBookService.dll
+c:\users\whong\Source\Repos\GuestBookService\GuestBookService\obj\Debug\netcoreapp2.0\GuestBookService.pdb
