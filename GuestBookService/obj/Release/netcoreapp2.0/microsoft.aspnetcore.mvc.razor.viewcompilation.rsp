@@ -1,0 +1,5 @@
+c:\users\whong\Source\Repos\GuestBookService\GuestBookService
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=GuestBookService
+--content-root=c:\users\whong\Source\Repos\GuestBookService\GuestBookService
+--file=
